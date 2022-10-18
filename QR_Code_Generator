@@ -1,6 +1,6 @@
 import qrcode
 
-data = input('Enter the Data: ')
+data = input('Enter the Link: ')
 version = int(input('Enter the version (complexity): '))
 box_size = int(input('Enter the Box size: '))
 
